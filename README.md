@@ -1,0 +1,2 @@
+# slice
+go programing slice
